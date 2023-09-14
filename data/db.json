@@ -1,0 +1,235 @@
+{
+  "potions": [
+    {
+      "id": 1,
+      "name": "SmallPotion",
+      "price": 50,
+      "health": 25,
+      "type": "potion",
+      "imgPath": "images/item/small-potion.png"
+    },
+    {
+      "id": 2,
+      "name": "MediumPotion",
+      "price": 50,
+      "health": 50,
+      "type": "potion",
+      "imgPath": "images/item/medium-potion.png"
+    },
+    {
+      "id": 3,
+      "name": "BigPotion",
+      "price": 50,
+      "health": 100,
+      "type": "potion",
+      "imgPath": "images/item/big-potion.png"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "NoobStick",
+      "damage": 1,
+      "crit": 5,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/noob-stick.png"
+    },
+    {
+      "id": 2,
+      "name": "TeenoiSword",
+      "damage": 2,
+      "crit": 10,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/teenoi-sword.png"
+    },
+    {
+      "id": 3,
+      "name": "NichirinSword",
+      "damage": 5,
+      "crit": 5,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/nichirin-sword.png"
+    },
+    {
+      "id": 4,
+      "name": "FishSword",
+      "damage": 4,
+      "crit": 15,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/fish-sword.png"
+    },
+    {
+      "id": 5,
+      "name": "RewLegendary",
+      "damage": 99,
+      "crit": 99,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/rewlegendary-sword.png"
+    },
+    {
+      "id": 6,
+      "name": "AtomicScythe",
+      "damage": 2,
+      "crit": 45,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/atomic-scythe.png"
+    },
+    {
+      "id": 7,
+      "name": "IceCream",
+      "damage": 15,
+      "crit": 5,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/ice-cream-sword.png"
+    },
+    {
+      "id": 8,
+      "name": "SilverRapier",
+      "damage": 10,
+      "crit": 20,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/silver-rapier.png"
+    },
+    {
+      "id": 9,
+      "name": "TheButcher",
+      "damage": 17,
+      "crit": 5,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/the-butcher.png"
+    },
+    {
+      "id": 10,
+      "name": "WoodenSword",
+      "damage": 5,
+      "crit": 5,
+      "type": "weapon",
+      "imgPath": "images/item/weapon/wooden-sword.png"
+    },
+    {
+      "id": 11,
+      "name": "BlueCoat",
+      "health": 10,
+      "type": "armor",
+      "imgPath": "images/item/armor/blue-coat.png"
+    },
+    {
+      "id": 12,
+      "name": "DemonicArmor",
+      "health": 30,
+      "type": "armor",
+      "imgPath": "images/item/armor/demonic-armor.png"
+    },
+    {
+      "id": 13,
+      "name": "FireCloak",
+      "health": 10,
+      "damage": 5,
+      "type": "armor",
+      "imgPath": "images/item/armor/fire-cloak.png"
+    },
+    {
+      "id": 14,
+      "name": "KnightArmor",
+      "health": 50,
+      "type": "armor",
+      "imgPath": "images/item/armor/knight-armor.png"
+    },
+    {
+      "id": 15,
+      "name": "LeatherCloak",
+      "health": 10,
+      "luck": 5,
+      "type": "armor",
+      "imgPath": "images/item/armor/leather-cloak.png"
+    },
+    {
+      "id": 16,
+      "name": "ModricArmor",
+      "health": 120,
+      "type": "armor",
+      "imgPath": "images/item/armor/modric-armor.png"
+    },
+    {
+      "id": 17,
+      "name": "GoldenRing",
+      "luck": 2,
+      "type": "accessory",
+      "imgPath": "images/item/accessories/golden-ring.png"
+    },
+    {
+      "id": 18,
+      "name": "EmeraldRing",
+      "luck": 3.5,
+      "type": "accessory",
+      "imgPath": "images/item/accessories/emerald-ring.png"
+    },
+    {
+      "id": 19,
+      "name": "FireRing",
+      "damage": 2,
+      "luck": 4.5,
+      "type": "accessory",
+      "imgPath": "images/item/accessories/fire-ring.png"
+    },
+    {
+      "id": 20,
+      "name": "LapisEarring",
+      "luck": 6,
+      "type": "accessory",
+      "imgPath": "images/item/accessories/lapis-earring.png"
+    },
+    {
+      "id": 21,
+      "name": "Clover",
+      "luck": 20,
+      "type": "accessory",
+      "imgPath": "images/item/accessories/clover.png"
+    },
+    {
+      "id": 22,
+      "name": "ThugGlasses",
+      "damage": 5,
+      "luck": 5,
+      "health": 5,
+      "type": "accessory",
+      "imgPath": "images/item/accessories/thug-glasses.png"
+    },
+    {
+      "id": 23,
+      "name": "StupidBook",
+      "damage": 2,
+      "luck": 30,
+      "health": 2,
+      "type": "accessory",
+      "imgPath": "images/item/accessories/stupid-book.png"
+    },
+    {
+      "id": 24,
+      "name": "Cigar",
+      "damage": 3,
+      "crit": 3,
+      "luck": 3,
+      "health": 3,
+      "type": "accessory",
+      "imgPath": "images/item/accessories/cigar.png"
+    }
+  ],
+  "players": [
+    {
+      "name": "Legendary",
+      "character": 1,
+      "coin": 99999999,
+      "level": 1,
+      "password": "soyjuthelegend",
+      "health": 9999,
+      "maxHealth": 9999,
+      "damage": 999,
+      "luck": 999,
+      "crit": 999,
+      "inventory": [],
+      "potions": [],
+      "id": 1
+    }
+  ]
+}
